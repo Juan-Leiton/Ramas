@@ -11,4 +11,8 @@ public class Mago {
         System.out.println("Nombre: " + nombre);
         System.out.println("Nivel: " + nivel);
     }
+
+    public void subirNivel() {
+    nivel++;
+}
 }
