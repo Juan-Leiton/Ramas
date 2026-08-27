@@ -11,4 +11,6 @@ public class Mesa {
         this.Medida = Medida;
         this.Material = Material;
     }
+
+    
 }
